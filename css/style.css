@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+
+}
+
+body {
+    background: rgb(161, 100, 223);
+    height: 100dvh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    gap: 26px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.container div button {
+    font-size: 22px;
+    padding: 30px 45px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container div  audio  button {
+    font-size: 22px;
+    padding: 30px 45px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container div button:hover {
+    opacity: 0.9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
